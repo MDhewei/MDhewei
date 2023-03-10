@@ -1,12 +1,16 @@
-### Hi there 👋, my name is Wei. I'm a senior computational biologist with 10+ years experiences in bioinformatics field
+### Wei He, Ph.D.
+![](https://img.shields.io/badge/Bioinformatics-Biology/analysis/algorithm-blue.svg)
+![](https://img.shields.io/badge/Coding-Python/R/JavaScript-red.svg)
 
 > Eager to learn | Happy to share | Together to success
 
 
-- :man:Senior computational scientist with 10+ years experiences
-- 🔭 Currently working at MD Anderson Cancer Center
-- 💻 Experienced working with transcriptomics and genomics data, data visualization and data analysis in R
-- 🔍 Find out more about me here: [khushbupatel.info](https://khushbupatel.info/)
+- :man: Senior computational scientist with 10+ years experiences in bioinformatics and scientific research
+- :office: Currently working as data scientist at MD Anderson Cancer Center
+- :question:Interested in understanding biological questions with computational methods and approach
+- :computer: Experienced in develop useful computational tools for better experimental design and data visaulization and intepretation
+- 🔍 Learn more about me and my research at [my goole sites](https://sites.google.com/view/hwkobe)
+- :pencil: Share bioinformatic skills, tools and resources on my Youtube channels:[Bioinforbricklayer](https://www.youtube.com/channel/UC9GCtpQdyJW2_Es8psxHGMw?sub_confirmation=1) and [生信进阶之路](https://www.youtube.com/channel/UCrOINtaeDHkSz34DANQej5g?sub_confirmation=1) and my Bilibili channel [Bioinforbricker](https://space.bilibili.com/1605459521?spm_id_from=333.788.0.0)
 
 
 <!--
