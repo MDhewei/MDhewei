@@ -7,7 +7,7 @@
 - :man: Senior computational scientist with 10+ years experiences in bioinformatics and scientific research
 - :office: Currently working as data scientist at MD Anderson Cancer Center
 - :question:Interested in understanding biological questions with computational methods and approach
-- :computer: Experienced in developing useful computational methods and tools for better experimental design and data visaulization and intepretation
+- :computer: Experienced in developing useful computational methods and tools for experimental data visaulization and intepretation
 - 🔍 Learn more about my research and my recent updates at [my goole sites](https://sites.google.com/view/hwkobe),[ResearchGate](https://www.researchgate.net/profile/He-Wei-7) and [twitter](https://twitter.com/hwkobe)
 - :pencil: Share bioinformatic skills, tools and resources on my Youtube channels:[Bioinforbricklayer](https://www.youtube.com/channel/UC9GCtpQdyJW2_Es8psxHGMw?sub_confirmation=1) and [生信进阶之路](https://www.youtube.com/channel/UCrOINtaeDHkSz34DANQej5g?sub_confirmation=1) and my Bilibili channel [Bioinforbricker](https://space.bilibili.com/1605459521?spm_id_from=333.788.0.0)
 
