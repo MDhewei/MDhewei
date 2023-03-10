@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋, my name is Wei. I'm a senior computational biologist with 10+ years experiences in bioinformatics field
+
+> Eager to learn | Happy to share | Together to success
+
+
+- :man:Senior computational scientist with 10+ years experiences
+- 🔭 Currently working at MD Anderson Cancer Center
+- 💻 Experienced working with transcriptomics and genomics data, data visualization and data analysis in R
+- 🔍 Find out more about me here: [khushbupatel.info](https://khushbupatel.info/)
+
 
 <!--
 **MDhewei/MDhewei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
