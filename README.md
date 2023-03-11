@@ -1,5 +1,5 @@
 ### Wei He, Ph.D.
-![](https://img.shields.io/badge/Bioinformatics-Biology/data analysis/algorithm-blue.svg)
+![](https://img.shields.io/badge/Bioinformatics-Biology/DataAnalysis/Algorithm-blue.svg)
 ![](https://img.shields.io/badge/Coding-Python/R/JavaScript-red.svg)
 
 > Eager to learn | Happy to share | Together to success
