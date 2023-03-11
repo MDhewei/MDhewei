@@ -2,7 +2,7 @@
 ![](https://img.shields.io/badge/Bioinformatics-Biology/DataAnalysis/Algorithm-blue.svg)
 ![](https://img.shields.io/badge/Coding-Python/R/JavaScript-red.svg)
 
-> Eager to learn | Happy to share | Together to success
+> Eager to learn | Happy to code | Curious to discover
 
 - :man: Senior computational scientist with 10+ years of experiences in bioinformatics and scientific research
 - :office: Currently working as data scientist at MD Anderson Cancer Center
