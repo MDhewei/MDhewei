@@ -4,7 +4,7 @@
 
 > Eager to learn | Happy to share | Together to success
 
-- :man: Senior computational scientist with 10+ years experiences in bioinformatics and scientific research
+- :man: Senior computational scientist with 10+ years of experiences in bioinformatics and scientific research
 - :office: Currently working as data scientist at MD Anderson Cancer Center
 - :question:Interested in cancer biology and drug development with computational approach
 - :computer: Experienced in developing computational methods and tools for experimental data analysis, visaulization and intepretation
